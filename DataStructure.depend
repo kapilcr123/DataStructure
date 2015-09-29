@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1405346864 source:f:\workspace\datastructure\link_list.c
+	"Link_List.h"
+
+1406111650 source:f:\workspace\datastructure\queue.c
+	"Queue.h"
+	"Tree.h"
+
+1403869626 source:f:\workspace\datastructure\stack.c
+
+1406112896 source:f:\workspace\datastructure\main.c
+	<stdio.h>
+	<conio.h>
+	"Link_List.h"
+	"Queue.h"
+	"Tree.h"
+
+1406110509 f:\workspace\datastructure\tree.h
+
+1406111739 source:f:\workspace\datastructure\tree.c
+	"Tree.h"
+	"Queue.h"
+	"stdio.h"
+	"conio.h"
+
+1403979825 f:\workspace\datastructure\link_list.h
+
+1406112346 f:\workspace\datastructure\queue.h
+	"Tree.h"
+
